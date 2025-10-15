@@ -47,7 +47,7 @@ const WeatherContent = () => {
         {/* Main Heading*/}
         <div className="text-center mb-8">
           <h2 className="text-white text-4xl md:text-5xl font-light mb-6">
-            How's the sky looking today?
+            How&apos;s the sky looking today?
           </h2>
           <SearchBar onLocationSelect={setSelectedLocation} />
         </div>
